@@ -1,0 +1,19 @@
+{
+  "name": "@hnrchrdl/random-repo-stats",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnrchrdl/random-repo-stats.git"
+  },
+  "author": "hnrchrdl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hnrchrdl/random-repo-stats/issues"
+  },
+  "homepage": "https://github.com/hnrchrdl/random-repo-stats#readme"
+}
